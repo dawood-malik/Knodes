@@ -1,0 +1,15 @@
+D:\source\repos\DSA\knodes\bin\Debug\net7.0\knodes.exe
+D:\source\repos\DSA\knodes\bin\Debug\net7.0\knodes.deps.json
+D:\source\repos\DSA\knodes\bin\Debug\net7.0\knodes.runtimeconfig.json
+D:\source\repos\DSA\knodes\bin\Debug\net7.0\knodes.dll
+D:\source\repos\DSA\knodes\bin\Debug\net7.0\knodes.pdb
+D:\source\repos\DSA\knodes\obj\Debug\net7.0\knodes.csproj.AssemblyReference.cache
+D:\source\repos\DSA\knodes\obj\Debug\net7.0\knodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA\knodes\obj\Debug\net7.0\knodes.AssemblyInfoInputs.cache
+D:\source\repos\DSA\knodes\obj\Debug\net7.0\knodes.AssemblyInfo.cs
+D:\source\repos\DSA\knodes\obj\Debug\net7.0\knodes.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA\knodes\obj\Debug\net7.0\knodes.dll
+D:\source\repos\DSA\knodes\obj\Debug\net7.0\refint\knodes.dll
+D:\source\repos\DSA\knodes\obj\Debug\net7.0\knodes.pdb
+D:\source\repos\DSA\knodes\obj\Debug\net7.0\knodes.genruntimeconfig.cache
+D:\source\repos\DSA\knodes\obj\Debug\net7.0\ref\knodes.dll
